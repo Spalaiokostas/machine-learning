@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fab688bb-8504-4178-8a61-fc55f2ff564c" name="dockerTf" url="http://localhost">
+        <fileTransfer host="localhost" port="2222" rootFolder="/notebooks/workspace/AgeRecognition" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
