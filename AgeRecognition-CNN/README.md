@@ -1,4 +1,4 @@
-We try to solve the age detection problem described in  <a href="https://www.w3schools.com">here</a>. 
+We try to solve the age detection problem described in  <a href=https://datahack.analyticsvidhya.com/contest/practice-problem-age-detection>here</a>. 
 
 The model's architecture is a Convolutional Neural Network (to see the graph open graph.png image)
 Current accuracy is at 0.7616033755
